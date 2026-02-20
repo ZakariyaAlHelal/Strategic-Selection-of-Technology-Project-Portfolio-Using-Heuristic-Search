@@ -23,7 +23,7 @@ A heuristic search procedure is applied to identify high-quality feasible portfo
 ---
 
 ## How to Run
-1. Open the notebook: `strategic_portfolio_model.ipynb`
+1. Open the notebook: `strategic_technology_portfolio_selection.ipynb`
 2. Run all cells sequentially.
 3. The model loads input data from:
 
