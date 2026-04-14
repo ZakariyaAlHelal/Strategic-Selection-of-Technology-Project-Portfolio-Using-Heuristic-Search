@@ -1,7 +1,7 @@
 # Strategic Selection of Technology Project Portfolio Using Heuristic Search
 This repository accompanies the paper "Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties" and provides a reproducible implementation of the proposed approach.
 
-**Note:** This repository implements the Adaptive Simulated Annealing (ASA) approach used in the study. While the paper compares both SA and ASA, this implementation focuses on ASA for demonstration and reproducibility.
+**Note:** This implementation focuses on the Adaptive Simulated Annealing (ASA) approach used in the study. While the paper compares both SA and ASA, this repository includes ASA for demonstration and reproducibility.
 
 ## Purpose
 This project develops a computational decision-making framework for the strategic selection of technology project portfolios under resource constraints.
