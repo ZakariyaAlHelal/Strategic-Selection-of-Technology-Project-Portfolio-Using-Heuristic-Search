@@ -1,4 +1,5 @@
 # Strategic Selection of Technology Project Portfolio Using Heuristic Search
+This repository accompanies the paper "Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties" and provides a reproducible implementation of the proposed approach.
 
 ## Purpose
 This project develops a computational decision-making framework for the strategic selection of technology project portfolios under resource constraints.
