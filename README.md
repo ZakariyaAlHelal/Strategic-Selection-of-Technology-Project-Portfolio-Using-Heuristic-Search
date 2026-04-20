@@ -3,6 +3,8 @@
 This repository accompanies the paper: "Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties" 
 and provides a reproducible implementation of the proposed optimization framework.
 
+---
+
 ## Purpose
 
 This project provides a computational decision-support framework for strategic project portfolio selection under constraints, enabling analysis of trade-offs between short-term value and long-term capability development.
@@ -62,6 +64,8 @@ The model now supports three input modes:
 - **Synthetic data generation**: Generates datasets (e.g., 60 projects) using controlled distributions consistent with the paper  
 
 This flexibility allows both replication of the original study and extension to new scenarios.
+
+---
 
 ## Key Features
 
