@@ -10,8 +10,6 @@ This repository implements a heuristic-based portfolio optimization approach usi
 
 This project provides a computational decision-support framework for strategic project portfolio selection under constraints, enabling analysis of trade-offs between short-term value and long-term capability development.
 
-The project implements a heuristic-based portfolio optimization approach using Simulated Annealing (SA) to select a balanced and resource-feasible set of projects.
-
 The framework supports multiple data sources and experimental configurations, enabling flexible testing and reproducibility.
 
 ---
