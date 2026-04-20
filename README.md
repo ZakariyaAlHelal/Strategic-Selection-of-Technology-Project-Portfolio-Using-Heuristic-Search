@@ -1,12 +1,41 @@
 # Strategic Selection of Technology Project Portfolio Using Heuristic Search
-This repository accompanies the paper "Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties" and provides a reproducible implementation of the proposed approach.
 
-**Note:** This implementation focuses on the Adaptive Simulated Annealing (ASA) approach used in the study. While the paper compares both SA and ASA, this repository includes ASA for demonstration and reproducibility.
+This repository accompanies the paper:
+
+"Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties"
+
+and provides a reproducible implementation of the proposed optimization framework.
+
+## Overview
+
+The project implements a heuristic-based portfolio optimization approach using Simulated Annealing (SA) to select a balanced and resource-feasible set of projects.
+
+The framework supports multiple data sources and experimental configurations, enabling flexible testing and reproducibility.
+
+## Data Input Options
+
+The model now supports three input modes:
+
+- **GitHub dataset** (default): Loads the provided dataset from the repository  
+- **User upload**: Allows uploading a custom `.xlsx` or `.csv` file with the same template  
+- **Synthetic data generation**: Generates datasets (e.g., 60 projects) using controlled distributions consistent with the paper  
+
+This flexibility allows both replication of the original study and extension to new scenarios.
+
+## Key Features
+
+- Multi-dimensional portfolio optimization (value + balance)
+- Resource constraints (budget and staff-hours)
+- Balance penalties across:
+  - Time horizon (Short / Medium / Long)
+  - Strategic intent (Exploratory / Exponential / Sustaining)
+- Synthetic data generation aligned with experimental assumptions
+- Export of optimized portfolios and datasets
+- Ready integration with simulation tools (e.g., Arena)
 
 ## Purpose
-This project develops a computational decision-making framework for the strategic selection of technology project portfolios under resource constraints.
 
-The model supports structured portfolio balancing across time horizons and strategic intent dimensions, enabling firms to evaluate trade-offs between short-term value and long-term capability development.
+This project provides a computational decision-support framework for strategic project portfolio selection under constraints, enabling analysis of trade-offs between short-term value and long-term capability development.
 
 ---
 
