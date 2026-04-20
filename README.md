@@ -3,7 +3,7 @@
 This repository accompanies the paper: "Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties" 
 and provides a reproducible implementation of the proposed optimization framework.
 
-This repository provides implements a heuristic-based portfolio optimization approach using Simulated Annealing (SA) to select a balanced and resource-feasible set of projects.
+This repository implements a heuristic-based portfolio optimization approach using Simulated Annealing (SA) to select a balanced and resource-feasible set of projects.
 
 
 ## Purpose
